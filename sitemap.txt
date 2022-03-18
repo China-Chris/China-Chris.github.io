@@ -1,6 +1,2 @@
-http://example.com/live2d-widget/waifu-tips.json
-http://example.com/live2d-widget/demo/demo.html
-http://example.com/live2d-widget/demo/login.html
-http://example.com/live2d-widget/README.html
 http://example.com/2022/03/16/hello-world/
 http://example.com/
